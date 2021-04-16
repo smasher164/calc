@@ -1,0 +1,15 @@
+[
+    {
+        "name": "com.android.calculator2.evaluation.UnifiedReal",
+        "allPublicMethods": true,
+        "allPublicConstructors": true
+    },
+    {
+        "name": "java.lang.reflect.AccessibleObject",
+        "methods": [
+            {
+                "name": "canAccess"
+            }
+        ]
+    }
+]

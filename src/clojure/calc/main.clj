@@ -1,4 +1,5 @@
-(ns calc.main)
+(ns calc.main
+  (:gen-class))
 
 (import com.hp.creals.CR)
 (import com.android.calculator2.evaluation.UnifiedReal)

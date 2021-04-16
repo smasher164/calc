@@ -11,3 +11,4 @@
 # Whitelist the following files
 !LICENSE
 !README.md
+!reflection.json
